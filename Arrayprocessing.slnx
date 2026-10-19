@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Arrayprocessing/Arrayprocessing.vcxproj" Id="58349600-a85b-4153-b502-803b5c38d0ad" />
+</Solution>
